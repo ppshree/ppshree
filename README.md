@@ -36,14 +36,14 @@
 <br>
 
 <!-- <h3 align="left">Support:</h3>
-<p><a href="#"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="pankaj" /></a></p>
+<p><a href="#"> <img align="left" src="https" height="50" width="210" alt="pankaj" /></a></p>
 <br>
 <br>
 <br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rama-kairi&show_icons=true&locale=en&layout=compact" alt="pankaj" /></p>
+<p><img align="left" src="https://" alt="pankaj" /></p>
 <br>
 <br>
 <br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rama-kairi&show_icons=true&locale=en" alt="pankaj" /></p>
+<p>&nbsp;<img align="center" src="https://" alt="pankaj" /></p>
 <br>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rama-kairi&" alt="pankaj" /></p> -->
+<p><img align="center" src="https://" alt="pankaj" /></p> -->
