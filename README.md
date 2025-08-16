@@ -3,12 +3,12 @@
 
 <br>
 
-- 🔭 I’m currently working at **SS Lab** on full-stack and DevOps projects.  
+- 🔭 I’m currently working at **HCL TECH** on full-stack and DevOps projects.  
 - 🌱 I’m on a journey from **React Developer → Azure DevOps Engineer**.  
 - 👨‍💻 All of my projects are available on [GitHub](https://github.com/ppshree?tab=repositories).  
-- 💬 Ask me about **React, JavaScript, Node.js, MongoDB, CI/CD, Docker, Azure DevOps**.  
+- 💬 Ask me about **React, JavaScript, Node.js, MongoDB, CI/CD, Docker, Azure DevOps, Jenkins,K8s**.  
 - 📫 Reach me at **ppakajshree@gmail.com**  
-- 📄 Know more about my experiences on [LinkedIn](https://www.linkedin.com/in/pankaj-kumar-a74129213).  
+- 📄 Know more about my experiences on [LinkedIn](https://www.linkedin.com/in/ppshree).  
 - ⚡ Fun fact: I once thought *Java* and *JavaScript* were the same thing 😅.  
 
 <br>
@@ -49,7 +49,3 @@ My goal is to bridge the gap between development & deployment with **Fullstack +
 <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
 </p>
 
-<br>
-
-<h3 align="left">📈 GitHub Stats:</h3>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=ppshree&show_icons=true&theme=tokyonight" alt="pankaj" /></p>
